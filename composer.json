@@ -1,7 +1,7 @@
 {
   "name": "tc/json",
   "type": "library",
-  "description": "A JSON encode/decode helper with easier handling for PHP",
+  "description": "A JSON encode/decode helper with easier error handling for PHP",
   "keywords": ["json", "encode", "decode"],
   "homepage": "https://github.com/carlcraig/tc-json",
   "license": "MIT",
