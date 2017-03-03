@@ -1,0 +1,22 @@
+{
+  "name": "tc/json",
+  "type": "library",
+  "description": "A JSON encode/decode helper with easier handling for PHP",
+  "keywords": ["json", "encode", "decode"],
+  "homepage": "https://github.com/carlcraig/tc-json",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Carl Craig",
+      "email": "carlcraig.threeceestudios@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": { "Tc\\Json\\": "src/" }
+  }
+}
